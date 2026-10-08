@@ -1,0 +1,4 @@
+segment,leads,customers,avg_contract_value,new_annual_revenue,lead_to_customer_pct,share_of_customers_pct,share_of_revenue_pct
+Mid-market,3429,74,11831.08,875500,2.16,35.07,41.67
+Enterprise,1289,20,43195.0,863900,1.55,9.48,41.12
+SMB,8064,117,3089.74,361500,1.45,55.45,17.21
